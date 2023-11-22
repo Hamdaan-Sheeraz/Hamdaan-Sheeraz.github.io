@@ -1,0 +1,36 @@
+* {
+    font-family: monospace;
+    font-size: larger;
+    font-size: xx-large;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://scentiche.com/img/web2/quiz/quiz-bg.webp');
+}
+
+.head1 {
+    text-align: center;
+    color:  black;
+    position: relative;
+    top: 210px;
+    text-decoration: underline;
+    font-size: 1.5em;
+    font-weight: 2.0em;
+}
+
+.intro {
+    position: relative;
+    top: 200px;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.login {
+    position: relative;
+    top: 400px;
+    text-align: center;
+    font-weight: bolder;
+    font-size:small !important;
+}
+
